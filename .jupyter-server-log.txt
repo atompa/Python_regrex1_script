@@ -36,3 +36,7 @@ TermSocket.open: Opened 1
 [W 22:56:59.909 NotebookApp] Notebook Linear Model- Python.ipynb is not trusted
 [I 22:57:39.106 NotebookApp] Saving file at /Linear Model- Python.ipynb
 [I 22:57:44.214 NotebookApp] Starting buffering for 38006f04-7634-45ab-85ec-35bc1c708018:27b0b6b6048242aa86b55606983fec5f
+[W 23:04:13.460 NotebookApp] Notebook Linear Model- Python.ipynb is not trusted
+[W 23:04:19.838 NotebookApp] Notebook Linear Model- Python.ipynb is not trusted
+[I 23:04:39.758 NotebookApp] Uploading file to /Linear Model- Python.html
+[I 23:05:43.683 NotebookApp] Starting buffering for 38006f04-7634-45ab-85ec-35bc1c708018:ea4402f51bf443b38b666037a3fb1f31
