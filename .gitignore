@@ -1,8 +1,21 @@
-# Byte-compiled / optimized / DLL files
+.
+.bash_logout
+.bashrc
+.cache
+.conda
+.config
+.empty
+.git
+.gitconfig
+.gitignore
+.ipynb_checkpoints
+.ipython
+.jupyter-server-log.txt
+.local
+.profile# Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
-
 # C extensions
 *.so
 
