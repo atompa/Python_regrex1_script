@@ -1,20 +1,19 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[3]:
+
 
 
 import pandas as pd
+import sys
 
 
-# In[4]:
 
 
-df = pd.read_csv ("regrex1.csv")
+df = pd.read_csv(sys.argv[1])
 print (df)
 
 
-# In[5]:
 
 
 import matplotlib.pyplot as plt
@@ -30,8 +29,6 @@ plt.show()
 
 plt.savefig('Scatterplot_Python.png')
 
-# In[6]:
-
 
 import numpy as np
 from sklearn.linear_model import LinearRegression
@@ -46,7 +43,7 @@ reg.intercept_
 y_predict = reg.predict(X)
 
 
-# In[7]:
+
 
 
 plt.scatter(x,y)
@@ -59,7 +56,7 @@ plt.show()
 
 
 
-# In[ ]:
+
 
 plt.scatter(x, y, color='black')
 
@@ -69,7 +66,7 @@ plt.show()
 
 
 
-# In[ ]:
+
 
 
 
