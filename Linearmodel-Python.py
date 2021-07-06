@@ -28,6 +28,8 @@ plt.ylabel('y')
 plt.show()
 
 
+plt.savefig('Scatterplot_Python.png')
+
 # In[6]:
 
 
@@ -55,6 +57,8 @@ plt.ylabel('y')
 plt.show()
 
 
+
+
 # In[ ]:
 
 plt.scatter(x, y, color='black')
@@ -62,7 +66,6 @@ plt.scatter(x, y, color='black')
 
 
 plt.show()
-
 
 
 
